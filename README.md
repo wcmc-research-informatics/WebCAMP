@@ -1,2 +1,0 @@
-# WebCAMP
-WebCAMP
